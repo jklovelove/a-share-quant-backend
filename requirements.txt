@@ -1,0 +1,11 @@
+# A股量化小程序后端依赖
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+akshare==1.18.22
+pandas==2.2.2
+numpy==1.26.4
+requests==2.32.3
+sqlalchemy==2.0.31
+python-dotenv==1.0.1
+apscheduler==3.10.4
+pydantic==2.9.2
